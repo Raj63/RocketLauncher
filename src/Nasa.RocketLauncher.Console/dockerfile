@@ -1,0 +1,6 @@
+FROM microsoft/dotnet:1.1-runtime-nanoserver
+
+WORKDIR /app
+COPY /bin/Release/PublishOutput .
+
+ENTRYPOINT ["dotnet", "Nasa.RocketLauncher.Application.dll"]
