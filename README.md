@@ -1,18 +1,26 @@
-# RocketLauncher
-Exclusive for NASA members only :p
-
+*******************************************************************
+######################### RocketLauncher ##########################
+*******************************************************************
 ___________________________________________________________________
-Folder Structure:
+	Folder Structure			|		Dependencies
+___________________________________________________________________
+[ ] : folder
+ -	: file
 ===================================================================
-Src-
-	Console App
-	Common Lib
-	Contract Lib
-	Business Lib
-	Inventory(DAL) Lib
 
-Test-
-	Mstest Proj
+[RocketLauncher]
+	- Sln
+	- Dockerfile
+	[Src]
+		- Console App			| SimpleInjector-4.0.11
+		- Common Lib			| SimpleInjector-4.0.11, Newtonsoft.Json-10.0.3
+		- Contract Lib
+		- Business Lib
+		- Inventory(DAL) Lib
+
+	[Test]
+		- Mstest Proj			| ExpectedObjects, Moq, Microsoft.NET.Test.sdk, 
+								| MSTest.TestAdapter, MSTest.TestFramework
 
 
 __________________________________________________________________	
@@ -24,7 +32,7 @@ Build, Publish & Run: dotnet commands
 
 3. dotnet build
 
-4. dotnet publish - optional
+4. dotnet publish  <optional>
 
 5. dotnet run
 
@@ -36,3 +44,5 @@ Build & Run: Docker
 2. sudo docker run -a stdin -a stdout -i -t <app-name>
 
 
+___________________________________________________________________
+PS: Exclusive for NASA members only :p
