@@ -1,0 +1,15 @@
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.deps.json
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Business.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Contract.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Inventory.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Business.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Inventory.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\bin\Release\netcoreapp2.0\Nasa.RocketLauncher.Contract.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\obj\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.csprojResolveAssemblyReference.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\obj\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.csproj.CoreCompileInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\obj\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.AssemblyInfoInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\obj\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.AssemblyInfo.cs
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\obj\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Common\obj\Release\netcoreapp2.0\Nasa.RocketLauncher.Common.pdb

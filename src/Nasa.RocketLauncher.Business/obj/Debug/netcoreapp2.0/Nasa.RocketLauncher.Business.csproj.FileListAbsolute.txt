@@ -1,0 +1,13 @@
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.deps.json
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Contract.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Contract.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.csprojResolveAssemblyReference.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.csproj.CoreCompileInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.AssemblyInfoInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.AssemblyInfo.cs
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.pdb

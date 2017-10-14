@@ -1,0 +1,15 @@
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.csprojResolveAssemblyReference.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.csproj.CoreCompileInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.AssemblyInfoInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.AssemblyInfo.cs
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.deps.json
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Contract.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\bin\Debug\netcoreapp2.0\Nasa.RocketLauncher.Contract.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.csprojResolveAssemblyReference.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.csproj.CoreCompileInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.AssemblyInfoInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.AssemblyInfo.cs
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Inventory\obj\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.pdb

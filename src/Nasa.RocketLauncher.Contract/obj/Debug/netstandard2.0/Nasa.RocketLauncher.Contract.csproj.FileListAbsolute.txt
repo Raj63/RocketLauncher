@@ -1,0 +1,9 @@
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\bin\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.deps.json
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\bin\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\bin\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.pdb
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\obj\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.csprojResolveAssemblyReference.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\obj\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.csproj.CoreCompileInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\obj\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.AssemblyInfoInputs.cache
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\obj\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.AssemblyInfo.cs
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\obj\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.dll
+E:\Programming\WorkSpace\DotNet\Projects\RocketLauncher\src\Nasa.RocketLauncher.Contract\obj\Debug\netstandard2.0\Nasa.RocketLauncher.Contract.pdb
