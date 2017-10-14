@@ -182,15 +182,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj",
+      "projectUniqueName": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj",
       "projectName": "Nasa.RocketLauncher.Contract",
-      "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj",
+      "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj",
       "packagesPath": "C:\\Users\\Rajesh\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\obj\\",
+      "outputPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

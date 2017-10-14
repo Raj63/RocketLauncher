@@ -3656,15 +3656,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\Nasa.RocketLauncher.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\Nasa.RocketLauncher.Common.csproj",
       "projectName": "Nasa.RocketLauncher.Common",
-      "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\Nasa.RocketLauncher.Common.csproj",
+      "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\Nasa.RocketLauncher.Common.csproj",
       "packagesPath": "C:\\Users\\Rajesh\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\obj\\",
+      "outputPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3683,14 +3680,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj"
             },
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj"
             },
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj"
             }
           }
         }
@@ -3704,10 +3701,6 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "SimpleInjector": {
-            "target": "Package",
-            "version": "4.0.11"
-          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
@@ -3717,6 +3710,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "10.0.3"
+          },
+          "SimpleInjector": {
+            "target": "Package",
+            "version": "4.0.11"
           }
         },
         "imports": [

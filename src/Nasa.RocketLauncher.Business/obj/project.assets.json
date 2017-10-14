@@ -704,15 +704,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj",
       "projectName": "Nasa.RocketLauncher.Business",
-      "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj",
+      "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj",
       "packagesPath": "C:\\Users\\Rajesh\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\obj\\",
+      "outputPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -731,11 +728,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj"
             },
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj"
             }
           }
         }

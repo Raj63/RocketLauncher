@@ -5938,15 +5938,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\test\\Nasa.RocketLauncher.Test\\Nasa.RocketLauncher.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\test\\Nasa.RocketLauncher.Test\\Nasa.RocketLauncher.Test.csproj",
       "projectName": "Nasa.RocketLauncher.Test",
-      "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\test\\Nasa.RocketLauncher.Test\\Nasa.RocketLauncher.Test.csproj",
+      "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\test\\Nasa.RocketLauncher.Test\\Nasa.RocketLauncher.Test.csproj",
       "packagesPath": "C:\\Users\\Rajesh\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\test\\Nasa.RocketLauncher.Test\\obj\\",
+      "outputPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\test\\Nasa.RocketLauncher.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5965,17 +5962,17 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\Nasa.RocketLauncher.Common.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\Nasa.RocketLauncher.Common.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj"
             },
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\Nasa.RocketLauncher.Common.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Common\\Nasa.RocketLauncher.Common.csproj"
             },
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Contract\\Nasa.RocketLauncher.Contract.csproj"
             },
-            "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj": {
-              "projectPath": "E:\\Programming\\WorkSpace\\DotNet\\Projects\\RocketLauncher\\src\\Nasa.RocketLauncher.Business\\Nasa.RocketLauncher.Business.csproj"
+            "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj": {
+              "projectPath": "C:\\Users\\Rajesh\\Documents\\GitHub\\RocketLauncher\\src\\Nasa.RocketLauncher.Inventory\\Nasa.RocketLauncher.Inventory.csproj"
             }
           }
         }
@@ -5989,6 +5986,28 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.0.0",
+            "autoReferenced": true
+          },
+          "ExpectedObjects": {
+            "target": "Package",
+            "version": "2.3.2"
+          },
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "15.3.0-preview-20170628-02"
+          },
+          "Moq": {
+            "target": "Package",
+            "version": "4.7.142"
+          },
+          "MSTest.TestAdapter": {
+            "target": "Package",
+            "version": "1.1.18"
+          },
           "MSTest.TestFramework": {
             "target": "Package",
             "version": "1.1.18"
@@ -5996,27 +6015,6 @@
           "SimpleInjector": {
             "target": "Package",
             "version": "4.0.11"
-          },
-          "ExpectedObjects": {
-            "target": "Package",
-            "version": "2.3.2"
-          },
-          "MSTest.TestAdapter": {
-            "target": "Package",
-            "version": "1.1.18"
-          },
-          "Moq": {
-            "target": "Package",
-            "version": "4.7.142"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
-          },
-          "Microsoft.NET.Test.Sdk": {
-            "target": "Package",
-            "version": "15.3.0-preview-20170628-02"
           }
         },
         "imports": [

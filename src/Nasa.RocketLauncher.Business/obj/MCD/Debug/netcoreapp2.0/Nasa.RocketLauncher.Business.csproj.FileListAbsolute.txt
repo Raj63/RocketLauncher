@@ -1,0 +1,12 @@
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.deps.json
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.dll
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.pdb
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Contract.dll
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.dll
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Contract.pdb
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\bin\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Inventory.pdb
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.AssemblyInfoInputs.cache
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.AssemblyInfo.cs
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.dll
+C:\Users\Rajesh\Documents\GitHub\RocketLauncher\src\Nasa.RocketLauncher.Business\obj\MCD\Debug\netcoreapp2.0\Nasa.RocketLauncher.Business.pdb
